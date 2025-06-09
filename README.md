@@ -1,6 +1,4 @@
-Here is a professional and clear `README.md` file in English for your GAN project, suitable for GitHub:
 
----
 
 # DCGAN for Cat and Dog Image Generation
 
@@ -123,7 +121,7 @@ These are all saved in the `./generated_images` folder.
 * Increase `NUM_EPOCHS` for better results.
 * Use GPU for faster training (`cuda:0` is automatically detected if available).
 
----
+
 
 ## 📄 License
 
